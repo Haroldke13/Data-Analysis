@@ -77,5 +77,10 @@ pandas familiarity; not reproducible without the source datasets.
 
 ## Licence
 
-None. **TODO: add a LICENSE file** — without one, the default is "all rights reserved". Note that the
-underlying datasets carry their own licence terms.
+**Proprietary software — all rights reserved.** Copyright © 2026 Joel Harold Onyango.
+
+This repository is not open source. The full terms are in [LICENSE](LICENSE); in
+summary, you may not copy, redistribute, modify, sublicense, publish, re-host or
+commercially exploit this software, in whole or in part, without the prior
+written permission of the copyright holder. Access to this repository does not
+grant any licence beyond reading it.
